@@ -1,0 +1,16 @@
+{
+"api_key": "rpa_U4Y6MPB4NIAPLHH8DVTPO92UFJKAL96BOTDFNA2Kbhs5wc",
+"models": [
+    {
+        "endpoint": "iy67fkfbebcw6p",
+        "model": "miqu-maid",
+        "batch_size": 8,
+        "timeout": 60
+    },
+    {
+        "endpoint": "xnswc66gg6xvzr",
+        "model": "goliath",
+        "batch_size": 8,
+        "timeout": 60
+    }
+]}
